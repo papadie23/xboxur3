@@ -1,0 +1,16 @@
+Metadata-Version: 2.4
+Name: airo_teleop
+Version: 2025.9.0
+Summary: Teleoperation functionality for manually controlling manipulators and grippers using gaming controllers etc. at the Ghent University AI and Robotics Lab
+Author: Thomas Lips
+Author-email: thomas.lips@ugent.be
+Requires-Dist: pygame
+Requires-Dist: click
+Requires-Dist: loguru
+Requires-Dist: airo-typing>=2025.9.0
+Requires-Dist: airo-spatial-algebra>=2025.9.0
+Requires-Dist: airo-robots>=2025.9.0
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
+Dynamic: summary
